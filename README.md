@@ -1,2 +1,2 @@
-# currency-converter
+# Currency-Converter
 Terminal currency converter
