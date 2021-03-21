@@ -1,7 +1,7 @@
 # Currency Converter
 
 Terminal currency converter that works with the JSON files form floatrates.com.  
-_Completed on March 2021_
+_Completed on 20 March 2021_
 
 The project is part of Python Developer track on JetBrains Academy (Hyperskill).  
 Link - [hyperskill/currency-converter](https://hyperskill.org/projects/157?track=2)
